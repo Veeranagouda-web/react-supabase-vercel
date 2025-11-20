@@ -47,7 +47,7 @@ function App() {
           placeholder="Email"
           required
         />
-        <button type="submit">Add</button>
+        <button type="submit">Add+</button>
       </form>
 
       <ul>
